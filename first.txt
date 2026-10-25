@@ -1,2 +1,6 @@
 Mkb
+<<<<<<< HEAD
 qwe
+=======
+Yerg
+>>>>>>> main
